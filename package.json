@@ -1,0 +1,11 @@
+{
+  "name": "gsb95-rangeset-test",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "区间集合代数（半开区间）—— 为既有实现补齐测试用例",
+  "scripts": {
+    "test": "node --test",
+    "check": "bash scripts/check.sh"
+  }
+}
